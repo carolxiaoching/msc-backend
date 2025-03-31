@@ -7,7 +7,7 @@ const doc = {
   },
   host:
     process.env.NODE_ENV === "production"
-      ? "msc-backend.onrender.com"
+      ? "msc-backend-9awe.onrender.com"
       : "localhost:3000",
   schemes: ["http", "https"],
   securityDefinitions: {

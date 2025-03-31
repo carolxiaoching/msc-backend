@@ -5,7 +5,7 @@
     "description": "我的秘密食譜 API",
     "version": "1.0.0"
   },
-  "host": "msc-backend.onrender.com",
+  "host": "msc-backend-9awe.onrender.com",
   "basePath": "/",
   "schemes": [
     "http",
