@@ -146,7 +146,7 @@ msc-backend
 │   └── validationUtils.js        # 資料驗證工具
 │
 ├── app.js                        # Express 應用主體
-├── config.env                          # 環境變數檔
+├── config.env                    # 環境變數檔
 ├── .gitignore                    # Git 忽略設定
 ├── config.js                     # 載入環境變數設定（已加入 .gitignore）
 ├── example.env                   # env 環境變數範例
@@ -175,7 +175,7 @@ msc-backend
 
 ## 💼 資料庫設計
 
-![資料庫設計](https://imgur.com/FmOVmGz)
+![資料庫設計](https://imgur.com/FmOVmGz.png)
 
 ## 🚀 API 路由
 
