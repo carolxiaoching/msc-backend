@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://chirp-space-backend.zeabur.app/api-doc/">
+  <a href="https://msc-backend.zeabur.app/api-doc/">
   👉 查看 API 文件
   </a>
 </p>
@@ -299,7 +299,7 @@ msc-backend
 
 ## 📚 Swagger 文件
 
-[My Secret Cookbook API](https://chirp-space-backend.zeabur.app/api-doc/)
+[My Secret Cookbook API](https://msc-backend.zeabur.app/api-doc/)
 
 ## 📁 專案結構
 
