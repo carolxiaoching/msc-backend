@@ -7,7 +7,7 @@ const doc = {
   },
   host:
     process.env.NODE_ENV === "production"
-      ? "chirp-space-backend.zeabur.app"
+      ? "msc-backend.zeabur.app"
       : "localhost:3000",
   schemes: ["http", "https"],
   securityDefinitions: {
